@@ -6,6 +6,7 @@ body{
 .card-section{
     text-align: center;
 
+
 }
 
 .card-section h2{
@@ -21,7 +22,7 @@ body{
     gap:50px ;
 }
 
-.card-section
+
 
 .card:hover{
     background-color:rgba(10, 124, 124, 0.516);
@@ -61,4 +62,11 @@ body{
     font-size: 1.25em;
     border-radius: 10px;
     cursor: pointer;
+}
+
+footer{
+    text-align: center;
+    color: red;
+    text-decoration: underline;
+
 }
