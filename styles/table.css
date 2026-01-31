@@ -1,0 +1,30 @@
+table {
+    /* border-collapse: collapse; */
+    border: 2px solid black;
+    
+      }
+td,th {
+    border: 1px solid black;
+    padding: 10px 20px;
+    
+
+}
+th{
+  font-size: 1.25em;
+  text-align: center;
+  padding: 20px 30px;
+}
+td {
+    text-align: left;
+    
+  }
+
+caption{
+  font-size: 1.25em;
+  text-decoration: underline;
+
+}
+
+tfoot td{
+  text-align: center;
+}
